@@ -1,8 +1,8 @@
-# Zepto-Sale-Analytics-Report
-# 🛒 Zepto 10-Minute Grocery Delivery – Power BI Dashboard
+# Blinkit-Sale-Analytics-Report
+# 🛒 Blinkit 10-Minute Grocery Delivery – Power BI Dashboard
 
 ## 🧩 Project Description
-This project presents an interactive **Power BI dashboard** analyzing sales and outlet performance for **Zepto’s 10-Minute Grocery Delivery** model.  
+This project presents an interactive **Power BI dashboard** analyzing sales and outlet performance for **Blinkit 10-Minute Grocery Delivery** model.  
 The goal is to uncover trends in product performance, outlet efficiency, and customer ratings, enabling data-driven decision-making to enhance profitability and service quality.
 
 The dashboard was designed with a **clean, vibrant purple theme** for clear visibility and user engagement.  
@@ -11,7 +11,7 @@ It serves as a quick reference for business managers to monitor KPIs across loca
 ---
 
 ## 📚 Dataset Information
-- **Dataset name:** Zepto Grocery Data  
+- **Dataset name:** Blinkit Grocery Data  
 - **Data source:** Public sample dataset (CSV/Excel) representing sales, outlet, and product details.  
 - **Data fields include:**  
   - Item Type, Fat Content, Item Weight, Visibility, Rating  
@@ -70,7 +70,7 @@ It includes KPIs, categorical breakdowns, and trend analysis for better operatio
 ---
 
 ## 🚀 Outcome
-This dashboard delivers actionable insights into Zepto’s grocery delivery performance, helping management:
+This dashboard delivers actionable insights into Blinkit grocery delivery performance, helping management:
 - Track critical KPIs in real time,  
 - Identify high-performing outlets & products, and  
 - Make smarter, data-driven decisions to boost efficiency and customer experience.
